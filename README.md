@@ -1,3 +1,2 @@
 # Snake
-**[Game Here](http://czdamsnake.great-site.net/)**
-[.](http://nein.czdamsnake.great-site.net/)
+**[Game Here](https://czdam0.github.io/Snake/)**
