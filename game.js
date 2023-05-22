@@ -8,8 +8,8 @@ var snakeX = blockSize * 5;
 var snakeY = blockSize * 5;
 
 // Set the total number of rows and columns
-var speedX = 1; //speed of snake in x coordinate.
-var speedY = 1; //speed of snake in Y coordinate.
+var speedX = 0; //speed of snake in x coordinate.
+var speedY = 0; //speed of snake in Y coordinate.
 
 var snakeBody = [];
 
